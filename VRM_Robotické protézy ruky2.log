@@ -1,0 +1,271 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.5)  10 APR 2022 09:52
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./VRM_Robotické protézy ruky2.tex"
+(VRM_Robotické protézy ruky2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+)
+(VRM_Robotické protézy ruky2.aux
+
+LaTeX Warning: Label `EMGs' multiply defined.
+
+)
+\openout1 = `"VRM_Robotické protézy ruky2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+ (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen142
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks18
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+<figures/Historic_hand_prosthesis.PNG, id=1, 384.6872pt x 256.70906pt>
+File: figures/Historic_hand_prosthesis.PNG Graphic file (type png)
+<use figures/Historic_hand_prosthesis.PNG>
+Package pdftex.def Info: figures/Historic_hand_prosthesis.PNG  used on input li
+ne 27.
+(pdftex.def)             Requested size: 230.81409pt x 154.02661pt.
+ [1
+
+{C:/ProgramData/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/Historic_hand_pr
+osthesis.PNG>]
+Overfull \hbox (2.28874pt too wide) in paragraph at lines 32--32
+\OT1/cmr/m/n/12 elek-tro-dami um^^S^^Pst^^Ten^^Sych na svale. Tento sign^^Sal b
+yl ^^Tr^^S^^Pd^^S^^Pc^^S^^Pm sign^^Salem pro otev^^Tren^^S^^P
+ []
+
+<figures/Rizeni_roboticke_protezy.PNG, id=11, 377.91188pt x 293.59688pt>
+File: figures/Rizeni_roboticke_protezy.PNG Graphic file (type png)
+<use figures/Rizeni_roboticke_protezy.PNG>
+Package pdftex.def Info: figures/Rizeni_roboticke_protezy.PNG  used on input li
+ne 42.
+(pdftex.def)             Requested size: 302.32991pt x 234.8778pt.
+[2 <./figures/Rizeni_roboticke_protezy.PNG>]
+<figures/Hmotnosti_casti_protezy.PNG, id=16, 370.38374pt x 255.95625pt>
+File: figures/Hmotnosti_casti_protezy.PNG Graphic file (type png)
+<use figures/Hmotnosti_casti_protezy.PNG>
+Package pdftex.def Info: figures/Hmotnosti_casti_protezy.PNG  used on input lin
+e 50.
+(pdftex.def)             Requested size: 296.30739pt x 204.76526pt.
+ [3 <./figures/Hmotnosti_casti_protezy.PNG>]
+<figures/Clamp_fingers.PNG, id=21, 178.41656pt x 218.31563pt>
+File: figures/Clamp_fingers.PNG Graphic file (type png)
+<use figures/Clamp_fingers.PNG>
+Package pdftex.def Info: figures/Clamp_fingers.PNG  used on input line 60.
+(pdftex.def)             Requested size: 160.5734pt x 196.48222pt.
+
+Overfull \hbox (0.26515pt too wide) in paragraph at lines 65--66
+\OT1/cmr/m/n/12 prov^^Sad^^Ten^^S^^P slo^^Tzit^^Tej^^Ts^^S^^Pch ^^Suchop^^Wu a 
+gest. Tento kon-cept by m^^Tel b^^Syt oproti komer^^Tcn^^Te
+ []
+
+<figures/Infinger_actuator_schematics.PNG, id=22, 576.65437pt x 266.49562pt>
+File: figures/Infinger_actuator_schematics.PNG Graphic file (type png)
+<use figures/Infinger_actuator_schematics.PNG>
+Package pdftex.def Info: figures/Infinger_actuator_schematics.PNG  used on inpu
+t line 69.
+(pdftex.def)             Requested size: 403.6553pt x 186.54565pt.
+
+Overfull \hbox (5.31673pt too wide) in paragraph at lines 69--70
+ [][] 
+ []
+
+[4 <./figures/Clamp_fingers.PNG> <./figures/Infinger_actuator_schematics.PNG>]
+<figures/KIT_string_hand.PNG, id=28, 392.21532pt x 260.47313pt>
+File: figures/KIT_string_hand.PNG Graphic file (type png)
+<use figures/KIT_string_hand.PNG>
+Package pdftex.def Info: figures/KIT_string_hand.PNG  used on input line 77.
+(pdftex.def)             Requested size: 333.38458pt x 221.4032pt.
+
+Overfull \hbox (5.13918pt too wide) in paragraph at lines 74--80
+\OT1/cmr/m/n/12 nismy, kter^^Se ovl^^Sadaj^^S^^P n^^Tekolik prst^^Wu z^^Sarove^
+^Tn - uka-zov^^Sa^^Tcek, prost^^Tredn^^S^^P^^Tcek, prsten^^S^^Pk
+ []
+
+[5 <./figures/KIT_string_hand.PNG>]
+Overfull \hbox (0.57545pt too wide) in paragraph at lines 87--88
+\OT1/cmr/m/n/12 Elektromyografick^^Se (EMG) sen-sory jsou sen-sory zachy-cuj^^S
+^^Pc^^S^^P zm^^Tenu elek-trick^^Seho
+ []
+
+<figures/emg-sensor-placement-1.png, id=33, 624.3325pt x 215.80624pt>
+File: figures/emg-sensor-placement-1.png Graphic file (type png)
+<use figures/emg-sensor-placement-1.png>
+Package pdftex.def Info: figures/emg-sensor-placement-1.png  used on input line
+ 91.
+(pdftex.def)             Requested size: 374.60239pt x 129.48474pt.
+<figures/FSR_sensor.PNG, id=34, 439.6425pt x 192.72pt>
+File: figures/FSR_sensor.PNG Graphic file (type png)
+<use figures/FSR_sensor.PNG>
+Package pdftex.def Info: figures/FSR_sensor.PNG  used on input line 100.
+(pdftex.def)             Requested size: 395.67459pt x 173.44638pt.
+[6 <./figures/emg-sensor-placement-1.png> <./figures/FSR_sensor.PNG>]
+<figures/ITCS_control.PNG, id=40, 380.17032pt x 187.45032pt>
+File: figures/ITCS_control.PNG Graphic file (type png)
+<use figures/ITCS_control.PNG>
+Package pdftex.def Info: figures/ITCS_control.PNG  used on input line 116.
+(pdftex.def)             Requested size: 380.16939pt x 187.44984pt.
+ [7 <./figures/ITCS_control.PNG>]
+<figures/Camera_hand.PNG, id=46, 289.08pt x 207.02344pt>
+File: figures/Camera_hand.PNG Graphic file (type png)
+<use figures/Camera_hand.PNG>
+Package pdftex.def Info: figures/Camera_hand.PNG  used on input line 125.
+(pdftex.def)             Requested size: 289.07928pt x 207.02292pt.
+ [8 <./figures/Camera_hand.PNG>] [9]
+Overfull \hbox (76.88924pt too wide) in paragraph at lines 141--144
+[][]\OT1/cmtt/m/n/12 http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=hs
+w n2 07& lang=en 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+[]\OT1/cmr/m/n/12 SHAWN: \OT1/cmr/m/it/12 What is EMG sen-sor, My-oware and How
+ to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+\OT1/cmr/m/it/12 use with Ar-duino?\OT1/cmr/m/n/12 . Seeed-stu-dio [on-line]. 2
+020 [cit. 2022-04-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+\OT1/cmr/m/n/12 10],https://www.seeedstudio.com/blog/2019/12/29/what-is-emg-sen
+sor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+[]\OT1/cmr/m/n/12 SHAWN: \OT1/cmr/m/it/12 What is EMG sen-sor, My-oware and How
+ to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+\OT1/cmr/m/it/12 use with Ar-duino?\OT1/cmr/m/n/12 . Seeed-stu-dio [on-line]. 2
+020 [cit. 2022-04-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+\OT1/cmr/m/n/12 10],https://www.seeedstudio.com/blog/2019/12/29/what-is-emg-sen
+sor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+[]\OT1/cmr/m/n/12 TYLER, Dustin J.: \OT1/cmr/m/it/12 Cre-at-ing a Pros-thetic H
+and That Can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+\OT1/cmr/m/it/12 Feel.\OT1/cmr/m/n/12 . IEEE Spec-trum [on-line]. 28 APR 2016 [
+cit. 2022-04-
+ []
+
+[10] (VRM_Robotické protézy ruky2.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1359 strings out of 478582
+ 23415 string characters out of 2854160
+ 318884 words of memory out of 3000000
+ 19574 multiletter control sequences out of 15000+600000
+ 472505 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,8n,62p,1125b,223s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmtt12.pfb>
+Output written on "VRM_Robotické protézy ruky2.pdf" (10 pages, 986734 bytes).
+
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
